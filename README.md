@@ -30,7 +30,7 @@ print("Swapped values are:",a , b)
 
 ## OUTPUT:![GITT](PYTHON.png)
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
